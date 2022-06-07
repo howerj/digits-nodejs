@@ -1,0 +1,25 @@
+{
+  "name": "@howerj/digits",
+  "version": "1.0.0",
+  "description": "Find the number of digits in a string",
+  "main": "digits.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howerj/digits-nodejs.git"
+  },
+  "keywords": [
+    "digits",
+    "string",
+    "length"
+  ],
+  "author": "Richard James Howe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howerj/digits-nodejs/issues"
+  },
+  "homepage": "https://github.com/howerj/digits-nodejs#readme",
+  "dependencies": {}
+}
